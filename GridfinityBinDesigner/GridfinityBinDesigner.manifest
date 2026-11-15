@@ -1,0 +1,13 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "df5f4109-8493-45a7-9f26-a3411c6306e1",
+  "author": "Gridfinity Bin Designer contributors",
+  "description": {
+    "": "Design Gridfinity bins with custom compartments, label tabs, scoops and magnet holes, then build, update and export them."
+  },
+  "version": "1.0.0",
+  "runOnStartup": true,
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
