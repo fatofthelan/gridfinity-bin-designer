@@ -1,5 +1,7 @@
 # Gridfinity Bin Designer
 
+[![tests](https://github.com/fatofthelan/gridfinity-bin-designer/actions/workflows/tests.yml/badge.svg)](https://github.com/fatofthelan/gridfinity-bin-designer/actions/workflows/tests.yml)
+
 A free Autodesk Fusion add-in for designing 3D-printable **Gridfinity** bins.
 
 You size the bin on the 42 mm grid and draw compartments in a top-view editor with a live 3D preview. Label tabs, finger scoops and magnet/screw holes are checkboxes. Then you build a parametric bin in Fusion and export it as STL, 3MF or STEP.
@@ -44,7 +46,7 @@ You size the bin on the 42 mm grid and draw compartments in a top-view editor wi
 
 ## Installation
 
-1. Download or clone this repository.
+1. Download `GridfinityBinDesigner-<version>.zip` from the [latest release](https://github.com/fatofthelan/gridfinity-bin-designer/releases/latest) and unzip it (or clone this repository).
 2. Put the `GridfinityBinDesigner` folder (the one containing `GridfinityBinDesigner.manifest`) into Fusion's add-ins folder:
    - **macOS:** `~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns/`
    - **Windows:** `%APPDATA%\Autodesk\Autodesk Fusion 360\API\AddIns\`
